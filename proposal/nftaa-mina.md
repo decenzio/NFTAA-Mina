@@ -25,14 +25,14 @@ The project will be used in Romi's Master's thesis focused on ZK tech in web3.
 ### Problem
 
 Changing ownership of digital assets in web3 is not a problem at all.
-You just need to create a transaction, sign it, and if everything checks out, the assets will be transferred from the source wallet to the target destination after the transaction is published to the network and processed.
+You just need to create a transaction, sign it, and if everything checks out, the assets will be transferred from the source account to the target destination after the transaction is published to the network and processed.
 
-However, the issue arises when we want to change the owner of a wallet.
-This could be necessary for various reasons: the wallet may hold a large number of different assets, have a good transaction history, be verified somewhere, or be involved in different smart contracts.
+However, the issue arises when we want to change the owner of an account.
+This could be necessary for various reasons: the account may hold a large number of different assets, have a good transaction history, be verified somewhere, or be involved in different smart contracts.
 Such a change of ownership, however, is not possible given the nature and architecture of the blockchain.
 
 This is mainly due to the way asymmetric cryptography works, which is essentially the foundation of this whole concept.
-The advantage here is that no third party or anyone else can manage the wallet’s assets or sign anything on its behalf.
+The advantage here is that no third party or anyone else can manage the account’s assets or sign anything on its behalf.
 This is a benefit compared to regular Web2 accounts, where typically a third party has access to the data alongside the user.
 
 This is possible thanks to the principle of asymmetric cryptography, which is based on a pair of keys: a private key and a public key.
