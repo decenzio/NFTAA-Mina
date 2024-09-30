@@ -24,7 +24,7 @@ The project will be used in Romi's Master's thesis focused on ZK tech in web3.
 
 ### Problem
 
-Changing ownership of digital assets in Web3 is not a problem at all.
+Changing ownership of digital assets in web3 is not a problem at all.
 You just need to create a transaction, sign it, and if everything checks out, the assets will be transferred from the source wallet to the target destination after the transaction is published to the network and processed.
 
 However, the issue arises when we want to change the owner of a wallet.
@@ -103,16 +103,16 @@ Figure nftaa-positive-flow-sq shows hight level sequence diagram of the key elem
 
 ### Vision
 
-Our small team is a big fan of DeFi, and as part of our mission, we love to push the boundaries of what DeFi can do and strive to bring innovations to the world of Web3.
+Our small team is a big fan of DeFi, and as part of our mission, we love to push the boundaries of what DeFi can do and strive to bring innovations to the world of web3.
 NFTAA is one example of how we are fulfilling our mission.
 
-Additionally, we are very interested in ZK technology and excited about what it offers and how it can be effectively utilized in the Web3 space.
+Additionally, we are very interested in ZK technology and excited about what it offers and how it can be effectively utilized in the web3 space.
 For this reason, we are particularly interested in Mina and appreciate the simplicity with which ZK technology can be used (we find o1js more user-friendly than Rust).
 That’s why we want to bring part of our work to the Mina ecosystem.
 This is our first project within the Mina environment, and upon its completion, we will consider continuing our journey in this ecosystem.
 
 We would be delighted if NFTAA brings real value to users and inspires others to explore new ways of utilizing DeFi.
-By demonstrating the potential of NFT-based accounts and ZK technology within the Mina network, we hope to encourage more developers, enthusiasts, and innovators to rethink how DeFi can work and what possibilities it can unlock for the Web3 community.
+By demonstrating the potential of NFT-based accounts and ZK technology within the Mina network, we hope to encourage more developers, enthusiasts, and innovators to rethink how DeFi can work and what possibilities it can unlock for the web3 community.
 
 ### Existing Work
 For our existing work, please check the Project Background section.
