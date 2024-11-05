@@ -121,7 +121,7 @@ When talking about related work, there is a similar idea in the Ethereum ecosyst
 In our [conference paper](https://arxiv.org/pdf/2404.14074#subsection.4.3), in the section "NFTAA vs TBA," we discuss the differences.
 
 ### Production Timeline
-The project will be completed on the testnet by the end of this year (2024).
+The project will be completed on the testnet at the end of January 2025.
 After a few weeks in the testnet and implementation feedback from users, it will be pushed to production in Q1 2025.
 
 ##  Budget & milestones
@@ -156,7 +156,7 @@ Final working version of all necessary smart contracts:
 - Support and future maintenance - 3,000 MINA
 
 ### Wallet Address
-B62qoAZ26Yjix1NBo6e6SLiegwhVZT7PgLG6vBtYDjfLNhwehg4Cyq3
+B62qp9RzjdeFwhfhqJ8MeVg8f6Ufpu9F5iV6ah8GpcpFPNaF2QEY4A6
 
 ## Team Info
 Romi has 2 years of experience as a Java backend developer in the banking domain. He participated in the development of a mobile banking wallet app and an app for managing loan applications used by bank back-office workers. Additionally, Roman was involved in the development of a DeFi aggregator, an app focused on integrating multiple DeFi functionalities, such as swap, portfolio tracking, loan usage, etc., on the Ethereum network. Roman studies Blockchain technology and completed a bachelor's thesis on NFTAA, with an article about this published by IEEE (check the Development status section). Currently, Roman is pursuing a Master's degree at FIIT STU and working on ZKP research. His further learning activities include a three-year program focusing on leadership. Recently, Roman co-founded Decenzio, a blockchain and web3 oriented IT company.
